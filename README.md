@@ -81,7 +81,8 @@ for char, code in huffman_codes.items():
 ## Output:
 ### Print the characters and its huffmancode
 
-![Screenshot 2025-05-21 025547](https://github.com/user-attachments/assets/1cee8886-798b-41a8-b1b2-29ab314865a4)
+![Screenshot 2025-05-21 213022](https://github.com/user-attachments/assets/47e08b6f-8f6e-4653-8e9f-a85d8e954689)
+
 
 
 
