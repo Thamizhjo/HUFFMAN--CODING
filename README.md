@@ -26,8 +26,8 @@ print the characters and its huffmancode.
 ## Program:
 
 ```
-DEVELOPED BY: Karsavarthan R R
-REGISTER NO: 212223230100
+Developed by: THAMIZH KUMARAN S
+RegisterNumber: 212223240166
 ```
 
 ``` Python
