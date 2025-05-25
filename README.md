@@ -32,7 +32,7 @@ RegisterNumber: 212223240166
 
 ``` Python
 
-input_string = "HII KARSA"  
+input_string = "HII THAMIZH"  
 ```
 ```
 
